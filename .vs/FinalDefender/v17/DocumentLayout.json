@@ -1,0 +1,283 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{956142CD-08AF-4028-B2D3-E012A7E87AE2}|FinalDefender.csproj|c:\\users\\scole\\documents\\sait\\object oriented 2\\final_project\\finaldefender\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{956142CD-08AF-4028-B2D3-E012A7E87AE2}|FinalDefender.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956142CD-08AF-4028-B2D3-E012A7E87AE2}|FinalDefender.csproj|c:\\users\\scole\\documents\\sait\\object oriented 2\\final_project\\finaldefender\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{956142CD-08AF-4028-B2D3-E012A7E87AE2}|FinalDefender.csproj|solutionrelative:components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956142CD-08AF-4028-B2D3-E012A7E87AE2}|FinalDefender.csproj|c:\\users\\scole\\documents\\sait\\object oriented 2\\final_project\\finaldefender\\components\\pages\\spaceinvaders.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{956142CD-08AF-4028-B2D3-E012A7E87AE2}|FinalDefender.csproj|solutionrelative:components\\pages\\spaceinvaders.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956142CD-08AF-4028-B2D3-E012A7E87AE2}|FinalDefender.csproj|c:\\users\\scole\\documents\\sait\\object oriented 2\\final_project\\finaldefender\\components\\gamesystems\\playership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{956142CD-08AF-4028-B2D3-E012A7E87AE2}|FinalDefender.csproj|solutionrelative:components\\gamesystems\\playership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956142CD-08AF-4028-B2D3-E012A7E87AE2}|FinalDefender.csproj|c:\\users\\scole\\documents\\sait\\object oriented 2\\final_project\\finaldefender\\components\\gamesystems\\player_projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{956142CD-08AF-4028-B2D3-E012A7E87AE2}|FinalDefender.csproj|solutionrelative:components\\gamesystems\\player_projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956142CD-08AF-4028-B2D3-E012A7E87AE2}|FinalDefender.csproj|c:\\users\\scole\\documents\\sait\\object oriented 2\\final_project\\finaldefender\\components\\gamesystems\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{956142CD-08AF-4028-B2D3-E012A7E87AE2}|FinalDefender.csproj|solutionrelative:components\\gamesystems\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956142CD-08AF-4028-B2D3-E012A7E87AE2}|FinalDefender.csproj|c:\\users\\scole\\documents\\sait\\object oriented 2\\final_project\\finaldefender\\components\\gamesystems\\enemyship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{956142CD-08AF-4028-B2D3-E012A7E87AE2}|FinalDefender.csproj|solutionrelative:components\\gamesystems\\enemyship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956142CD-08AF-4028-B2D3-E012A7E87AE2}|FinalDefender.csproj|c:\\users\\scole\\documents\\sait\\object oriented 2\\final_project\\finaldefender\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{956142CD-08AF-4028-B2D3-E012A7E87AE2}|FinalDefender.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956142CD-08AF-4028-B2D3-E012A7E87AE2}|FinalDefender.csproj|c:\\users\\scole\\documents\\sait\\object oriented 2\\final_project\\finaldefender\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{956142CD-08AF-4028-B2D3-E012A7E87AE2}|FinalDefender.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956142CD-08AF-4028-B2D3-E012A7E87AE2}|FinalDefender.csproj|c:\\users\\scole\\documents\\sait\\object oriented 2\\final_project\\finaldefender\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{956142CD-08AF-4028-B2D3-E012A7E87AE2}|FinalDefender.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956142CD-08AF-4028-B2D3-E012A7E87AE2}|FinalDefender.csproj|c:\\users\\scole\\documents\\sait\\object oriented 2\\final_project\\finaldefender\\components\\pages\\spaceinvaders.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{956142CD-08AF-4028-B2D3-E012A7E87AE2}|FinalDefender.csproj|solutionrelative:components\\pages\\spaceinvaders.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956142CD-08AF-4028-B2D3-E012A7E87AE2}|FinalDefender.csproj|c:\\users\\scole\\documents\\sait\\object oriented 2\\final_project\\finaldefender\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{956142CD-08AF-4028-B2D3-E012A7E87AE2}|FinalDefender.csproj|solutionrelative:components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956142CD-08AF-4028-B2D3-E012A7E87AE2}|FinalDefender.csproj|c:\\users\\scole\\documents\\sait\\object oriented 2\\final_project\\finaldefender\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{956142CD-08AF-4028-B2D3-E012A7E87AE2}|FinalDefender.csproj|solutionrelative:wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956142CD-08AF-4028-B2D3-E012A7E87AE2}|FinalDefender.csproj|c:\\users\\scole\\documents\\sait\\object oriented 2\\final_project\\finaldefender\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{956142CD-08AF-4028-B2D3-E012A7E87AE2}|FinalDefender.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956142CD-08AF-4028-B2D3-E012A7E87AE2}|FinalDefender.csproj|c:\\users\\scole\\documents\\sait\\object oriented 2\\final_project\\finaldefender\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{956142CD-08AF-4028-B2D3-E012A7E87AE2}|FinalDefender.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956142CD-08AF-4028-B2D3-E012A7E87AE2}|FinalDefender.csproj|c:\\users\\scole\\documents\\sait\\object oriented 2\\final_project\\finaldefender\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{956142CD-08AF-4028-B2D3-E012A7E87AE2}|FinalDefender.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T07:18:48.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T07:16:55.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T06:04:18.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainLayout.razor.css",
+              "DocumentMoniker": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\Components\\Layout\\MainLayout.razor.css",
+              "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor.css",
+              "ToolTip": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\Components\\Layout\\MainLayout.razor.css",
+              "RelativeToolTip": "Components\\Layout\\MainLayout.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-25T05:54:34.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SpaceInvaders.razor.css",
+              "DocumentMoniker": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\Components\\Pages\\SpaceInvaders.razor.css",
+              "RelativeDocumentMoniker": "Components\\Pages\\SpaceInvaders.razor.css",
+              "ToolTip": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\Components\\Pages\\SpaceInvaders.razor.css",
+              "RelativeToolTip": "Components\\Pages\\SpaceInvaders.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-25T05:54:25.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\app.css",
+              "ToolTip": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "wwwroot\\css\\app.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-25T05:53:15.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-25T05:53:01.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SpaceInvaders.razor",
+              "DocumentMoniker": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\Components\\Pages\\SpaceInvaders.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\SpaceInvaders.razor",
+              "ToolTip": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\Components\\Pages\\SpaceInvaders.razor",
+              "RelativeToolTip": "Components\\Pages\\SpaceInvaders.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T03:49:32.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\Components\\GameSystems\\GameState.cs",
+              "RelativeDocumentMoniker": "Components\\GameSystems\\GameState.cs",
+              "ToolTip": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\Components\\GameSystems\\GameState.cs",
+              "RelativeToolTip": "Components\\GameSystems\\GameState.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAUwFEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T01:29:54.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnemyShip.cs",
+              "DocumentMoniker": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\Components\\GameSystems\\EnemyShip.cs",
+              "RelativeDocumentMoniker": "Components\\GameSystems\\EnemyShip.cs",
+              "ToolTip": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\Components\\GameSystems\\EnemyShip.cs",
+              "RelativeToolTip": "Components\\GameSystems\\EnemyShip.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T00:28:09.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player_Projectile.cs",
+              "DocumentMoniker": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\Components\\GameSystems\\Player_Projectile.cs",
+              "RelativeDocumentMoniker": "Components\\GameSystems\\Player_Projectile.cs",
+              "ToolTip": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\Components\\GameSystems\\Player_Projectile.cs",
+              "RelativeToolTip": "Components\\GameSystems\\Player_Projectile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T00:27:39.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerShip.cs",
+              "DocumentMoniker": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\Components\\GameSystems\\PlayerShip.cs",
+              "RelativeDocumentMoniker": "Components\\GameSystems\\PlayerShip.cs",
+              "ToolTip": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\Components\\GameSystems\\PlayerShip.cs",
+              "RelativeToolTip": "Components\\GameSystems\\PlayerShip.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T00:27:19.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T06:14:17.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-25T00:08:02.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\wwwroot\\index.html",
+              "RelativeToolTip": "wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-25T00:08:12.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T00:07:52.97Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
