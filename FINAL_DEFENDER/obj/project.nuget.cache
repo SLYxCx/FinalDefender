@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AajSLQH3S70=",
+  "dgSpecHash": "PyvE6y6TdFI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\FinalDefender.csproj",
+  "projectFilePath": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\FINAL_DEFENDER\\FinalDefender.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\scole\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\scole\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.10\\microsoft.aspnetcore.authorization.8.0.10.nupkg.sha512",

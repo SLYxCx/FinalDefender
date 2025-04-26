@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\FinalDefender.csproj": {}
+    "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\FINAL_DEFENDER\\FinalDefender.csproj": {}
   },
   "projects": {
-    "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\FinalDefender.csproj": {
+    "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\FINAL_DEFENDER\\FinalDefender.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\FinalDefender.csproj",
+        "projectUniqueName": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\FINAL_DEFENDER\\FinalDefender.csproj",
         "projectName": "FinalDefender",
-        "projectPath": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\FinalDefender.csproj",
+        "projectPath": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\FINAL_DEFENDER\\FinalDefender.csproj",
         "packagesPath": "C:\\Users\\scole\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\obj\\",
+        "outputPath": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\FINAL_DEFENDER\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

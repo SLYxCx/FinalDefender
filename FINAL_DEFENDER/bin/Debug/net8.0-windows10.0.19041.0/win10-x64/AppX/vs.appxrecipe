@@ -10,14 +10,14 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>com.companyname.finaldefender</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
     <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
+    <LayoutDir>C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
     <RegisteredManifestChecksum>A078FC14424B9946800BE7DA0641AA9A20F014B3C4E5578A92B0140BCC451651</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>com.companyname.finaldefender_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>com.companyname.finaldefender_9zz4h110yvjzm!App</RegisteredUserModeAppID>
@@ -26,284 +26,284 @@
     <RegisteredVersion>1.0.0.1</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-04-26T00:52:30.820</Modified>
+      <Modified>2025-04-26T05:12:45.573</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <Modified>2025-04-25T07:16:32.507</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\FinalDefender.runtimeconfig.json">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\FinalDefender.runtimeconfig.json">
       <PackagePath>FinalDefender.runtimeconfig.json</PackagePath>
-      <Modified>2025-04-25T00:20:23.905</Modified>
+      <Modified>2025-04-26T05:12:45.294</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\FinalDefender.dll">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\FinalDefender.dll">
       <PackagePath>FinalDefender.dll</PackagePath>
-      <Modified>2025-04-26T00:52:30.579</Modified>
+      <Modified>2025-04-26T05:12:44.589</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>FinalDefender.exe</PackagePath>
-      <Modified>2025-04-26T00:52:30.583</Modified>
+      <Modified>2025-04-26T05:12:44.629</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\Resources\Raw\AboutAssets.txt">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
       <Modified>2025-04-25T00:07:48.607</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\wwwroot\css\app.css">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\wwwroot\css\app.css">
       <PackagePath>wwwroot\css\app.css</PackagePath>
       <Modified>2025-04-25T00:07:48.609</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\wwwroot\css\bootstrap\bootstrap.min.css">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\wwwroot\css\bootstrap\bootstrap.min.css">
       <PackagePath>wwwroot\css\bootstrap\bootstrap.min.css</PackagePath>
       <Modified>2025-04-25T00:07:48.611</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\wwwroot\css\bootstrap\bootstrap.min.css.map">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\wwwroot\css\bootstrap\bootstrap.min.css.map">
       <PackagePath>wwwroot\css\bootstrap\bootstrap.min.css.map</PackagePath>
       <Modified>2025-04-25T00:07:48.612</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\wwwroot\favicon.png">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\wwwroot\favicon.png">
       <PackagePath>wwwroot\favicon.png</PackagePath>
       <Modified>2025-04-25T00:07:48.608</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\wwwroot\index.html">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\wwwroot\index.html">
       <PackagePath>wwwroot\index.html</PackagePath>
       <Modified>2025-04-25T00:07:48.609</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
       <Modified>2025-04-25T00:08:09.352</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
       <Modified>2025-04-25T00:08:09.362</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
       <Modified>2025-04-25T00:08:09.377</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
       <Modified>2025-04-25T00:08:09.398</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
       <Modified>2025-04-25T00:08:09.476</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
       <Modified>2025-04-25T00:07:48.606</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2025-04-25T00:08:10.017</Modified>
+      <Modified>2025-04-26T05:12:15.079</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2025-04-25T00:08:10.011</Modified>
+      <Modified>2025-04-26T05:12:15.073</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2025-04-25T00:08:10.011</Modified>
+      <Modified>2025-04-26T05:12:15.073</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2025-04-25T00:08:10.011</Modified>
+      <Modified>2025-04-26T05:12:15.073</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2025-04-25T00:08:10.011</Modified>
+      <Modified>2025-04-26T05:12:15.073</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2025-04-25T00:08:10.010</Modified>
+      <Modified>2025-04-26T05:12:15.072</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2025-04-25T00:08:10.014</Modified>
+      <Modified>2025-04-26T05:12:15.077</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2025-04-25T00:08:10.014</Modified>
+      <Modified>2025-04-26T05:12:15.076</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2025-04-25T00:08:10.014</Modified>
+      <Modified>2025-04-26T05:12:15.076</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2025-04-25T00:08:10.014</Modified>
+      <Modified>2025-04-26T05:12:15.076</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2025-04-25T00:08:10.014</Modified>
+      <Modified>2025-04-26T05:12:15.076</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2025-04-25T00:08:10.015</Modified>
+      <Modified>2025-04-26T05:12:15.077</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2025-04-25T00:08:10.015</Modified>
+      <Modified>2025-04-26T05:12:15.077</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2025-04-25T00:08:10.015</Modified>
+      <Modified>2025-04-26T05:12:15.077</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2025-04-25T00:08:10.015</Modified>
+      <Modified>2025-04-26T05:12:15.077</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2025-04-25T00:08:10.015</Modified>
+      <Modified>2025-04-26T05:12:15.077</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2025-04-25T00:08:10.016</Modified>
+      <Modified>2025-04-26T05:12:15.079</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2025-04-25T00:08:10.016</Modified>
+      <Modified>2025-04-26T05:12:15.079</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2025-04-25T00:08:10.016</Modified>
+      <Modified>2025-04-26T05:12:15.079</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2025-04-25T00:08:10.016</Modified>
+      <Modified>2025-04-26T05:12:15.078</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2025-04-25T00:08:10.016</Modified>
+      <Modified>2025-04-26T05:12:15.078</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2025-04-25T00:08:10.016</Modified>
+      <Modified>2025-04-26T05:12:15.078</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2025-04-25T00:08:10.016</Modified>
+      <Modified>2025-04-26T05:12:15.078</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2025-04-25T00:08:10.015</Modified>
+      <Modified>2025-04-26T05:12:15.077</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2025-04-25T00:08:10.015</Modified>
+      <Modified>2025-04-26T05:12:15.078</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2025-04-25T00:08:10.015</Modified>
+      <Modified>2025-04-26T05:12:15.078</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2025-04-25T00:08:10.012</Modified>
+      <Modified>2025-04-26T05:12:15.074</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2025-04-25T00:08:10.012</Modified>
+      <Modified>2025-04-26T05:12:15.074</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2025-04-25T00:08:10.012</Modified>
+      <Modified>2025-04-26T05:12:15.074</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2025-04-25T00:08:10.012</Modified>
+      <Modified>2025-04-26T05:12:15.074</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2025-04-25T00:08:10.012</Modified>
+      <Modified>2025-04-26T05:12:15.074</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2025-04-25T00:08:10.013</Modified>
+      <Modified>2025-04-26T05:12:15.075</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2025-04-25T00:08:10.013</Modified>
+      <Modified>2025-04-26T05:12:15.075</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2025-04-25T00:08:10.013</Modified>
+      <Modified>2025-04-26T05:12:15.075</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2025-04-25T00:08:10.013</Modified>
+      <Modified>2025-04-26T05:12:15.075</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2025-04-25T00:08:10.013</Modified>
+      <Modified>2025-04-26T05:12:15.075</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2025-04-25T00:08:10.014</Modified>
+      <Modified>2025-04-26T05:12:15.076</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2025-04-25T00:08:10.014</Modified>
+      <Modified>2025-04-26T05:12:15.076</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2025-04-25T00:08:10.013</Modified>
+      <Modified>2025-04-26T05:12:15.076</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2025-04-25T00:08:10.013</Modified>
+      <Modified>2025-04-26T05:12:15.075</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2025-04-25T00:08:10.013</Modified>
+      <Modified>2025-04-26T05:12:15.075</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2025-04-25T00:08:10.012</Modified>
+      <Modified>2025-04-26T05:12:15.074</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2025-04-25T00:08:10.012</Modified>
+      <Modified>2025-04-26T05:12:15.073</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2025-04-25T00:08:10.011</Modified>
+      <Modified>2025-04-26T05:12:15.073</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2025-04-25T00:08:10.011</Modified>
+      <Modified>2025-04-26T05:12:15.073</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2025-04-25T00:08:10.011</Modified>
+      <Modified>2025-04-26T05:12:15.073</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2025-04-25T00:08:10.010</Modified>
+      <Modified>2025-04-26T05:12:15.072</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2025-04-25T00:08:10.010</Modified>
+      <Modified>2025-04-26T05:12:15.072</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2025-04-25T00:08:10.010</Modified>
+      <Modified>2025-04-26T05:12:15.072</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2025-04-25T00:08:10.009</Modified>
+      <Modified>2025-04-26T05:12:15.072</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2025-04-25T00:08:10.009</Modified>
+      <Modified>2025-04-26T05:12:15.071</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\FinalDefender.deps.json">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\FinalDefender.deps.json">
       <PackagePath>FinalDefender.deps.json</PackagePath>
-      <Modified>2025-04-25T07:16:32.242</Modified>
+      <Modified>2025-04-26T05:12:45.175</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\scole\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.57\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
@@ -657,7 +657,7 @@
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
       <Modified>2024-06-25T19:48:44.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\staticwebassets.build.endpoints.json">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\staticwebassets.build.endpoints.json">
       <PackagePath>FinalDefender.staticwebassets.endpoints.json</PackagePath>
       <Modified>2025-04-25T06:21:53.814</Modified>
     </AppxPackagedFile>
@@ -673,23 +673,23 @@
       <PackagePath>Microsoft.Maui.pri</PackagePath>
       <Modified>2024-11-07T17:07:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\bundle\FinalDefender.styles.css">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\bundle\FinalDefender.styles.css">
       <PackagePath>wwwroot\FinalDefender.styles.css</PackagePath>
       <Modified>2025-04-25T06:21:53.736</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\projectbundle\FinalDefender.bundle.scp.css">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\projectbundle\FinalDefender.bundle.scp.css">
       <PackagePath>wwwroot\FinalDefender.g3got1ypmm.bundle.scp.css</PackagePath>
       <Modified>2025-04-25T06:21:53.738</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\Components\Layout\MainLayout.razor.css">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\Components\Layout\MainLayout.razor.css">
       <PackagePath>Components\Layout\MainLayout.razor.css</PackagePath>
       <Modified>2025-04-25T00:07:48.615</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\Components\Layout\NavMenu.razor.css">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\Components\Layout\NavMenu.razor.css">
       <PackagePath>Components\Layout\NavMenu.razor.css</PackagePath>
       <Modified>2025-04-25T00:07:48.617</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\Components\Pages\SpaceInvaders.razor.css">
+    <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\FINAL_DEFENDER\Components\Pages\SpaceInvaders.razor.css">
       <PackagePath>Components\Pages\SpaceInvaders.razor.css</PackagePath>
       <Modified>2025-04-25T05:54:53.267</Modified>
     </AppxPackagedFile>
