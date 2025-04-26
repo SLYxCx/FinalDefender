@@ -1,0 +1,38 @@
+C:\Users\Levi M\source\repos\Spaceship Game\bin\Debug\Spaceship Game.exe.config
+C:\Users\Levi M\source\repos\Spaceship Game\bin\Debug\Spaceship Game.exe
+C:\Users\Levi M\source\repos\Spaceship Game\bin\Debug\Spaceship Game.pdb
+C:\Users\Levi M\source\repos\Spaceship Game\obj\Debug\Spaceship Game.csproj.AssemblyReference.cache
+C:\Users\Levi M\source\repos\Spaceship Game\obj\Debug\MainWindow.g.cs
+C:\Users\Levi M\source\repos\Spaceship Game\obj\Debug\App.g.cs
+C:\Users\Levi M\source\repos\Spaceship Game\obj\Debug\Spaceship Game_MarkupCompile.cache
+C:\Users\Levi M\source\repos\Spaceship Game\obj\Debug\Spaceship Game_MarkupCompile.lref
+C:\Users\Levi M\source\repos\Spaceship Game\obj\Debug\MainWindow.baml
+C:\Users\Levi M\source\repos\Spaceship Game\obj\Debug\Spaceship Game.g.resources
+C:\Users\Levi M\source\repos\Spaceship Game\obj\Debug\Spaceship_Game.Properties.Resources.resources
+C:\Users\Levi M\source\repos\Spaceship Game\obj\Debug\Spaceship Game.csproj.GenerateResource.cache
+C:\Users\Levi M\source\repos\Spaceship Game\obj\Debug\Spaceship Game.csproj.CoreCompileInputs.cache
+C:\Users\Levi M\source\repos\Spaceship Game\obj\Debug\Spaceship Game.exe
+C:\Users\Levi M\source\repos\Spaceship Game\obj\Debug\Spaceship Game.pdb
+C:\Users\Levi M\source\repos\Spaceship Game\bin\Debug\WpfAnimatedGif.dll
+C:\Users\Levi M\source\repos\Spaceship Game\bin\Debug\WpfAnimatedGif.pdb
+C:\Users\Levi M\source\repos\Spaceship Game\bin\Debug\WpfAnimatedGif.xml
+C:\Users\Levi M\source\repos\Spaceship Game\obj\Debug\Spaceshi.FBB4484A.Up2Date
+C:\Users\scole\Downloads\Spaceship Game compressed\Spaceship Game\bin\Debug\Spaceship Game.exe.config
+C:\Users\scole\Downloads\Spaceship Game compressed\Spaceship Game\bin\Debug\Spaceship Game.exe
+C:\Users\scole\Downloads\Spaceship Game compressed\Spaceship Game\bin\Debug\Spaceship Game.pdb
+C:\Users\scole\Downloads\Spaceship Game compressed\Spaceship Game\bin\Debug\WpfAnimatedGif.dll
+C:\Users\scole\Downloads\Spaceship Game compressed\Spaceship Game\bin\Debug\WpfAnimatedGif.pdb
+C:\Users\scole\Downloads\Spaceship Game compressed\Spaceship Game\bin\Debug\WpfAnimatedGif.xml
+C:\Users\scole\Downloads\Spaceship Game compressed\Spaceship Game\obj\Debug\Spaceship Game.csproj.AssemblyReference.cache
+C:\Users\scole\Downloads\Spaceship Game compressed\Spaceship Game\obj\Debug\MainWindow.g.cs
+C:\Users\scole\Downloads\Spaceship Game compressed\Spaceship Game\obj\Debug\App.g.cs
+C:\Users\scole\Downloads\Spaceship Game compressed\Spaceship Game\obj\Debug\Spaceship Game_MarkupCompile.cache
+C:\Users\scole\Downloads\Spaceship Game compressed\Spaceship Game\obj\Debug\Spaceship Game_MarkupCompile.lref
+C:\Users\scole\Downloads\Spaceship Game compressed\Spaceship Game\obj\Debug\MainWindow.baml
+C:\Users\scole\Downloads\Spaceship Game compressed\Spaceship Game\obj\Debug\Spaceship Game.g.resources
+C:\Users\scole\Downloads\Spaceship Game compressed\Spaceship Game\obj\Debug\Spaceship_Game.Properties.Resources.resources
+C:\Users\scole\Downloads\Spaceship Game compressed\Spaceship Game\obj\Debug\Spaceship Game.csproj.GenerateResource.cache
+C:\Users\scole\Downloads\Spaceship Game compressed\Spaceship Game\obj\Debug\Spaceship Game.csproj.CoreCompileInputs.cache
+C:\Users\scole\Downloads\Spaceship Game compressed\Spaceship Game\obj\Debug\Spaceshi.FBB4484A.Up2Date
+C:\Users\scole\Downloads\Spaceship Game compressed\Spaceship Game\obj\Debug\Spaceship Game.exe
+C:\Users\scole\Downloads\Spaceship Game compressed\Spaceship Game\obj\Debug\Spaceship Game.pdb
