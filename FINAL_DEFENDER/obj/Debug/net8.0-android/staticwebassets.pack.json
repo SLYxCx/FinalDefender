@@ -1,27 +1,27 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\FinalDefender.styles.css",
+      "Id": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\FINAL_DEFENDER\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\FinalDefender.styles.css",
       "PackagePath": "staticwebassets\\FinalDefender.styles.css"
     },
     {
-      "Id": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\wwwroot\\css\\app.css",
+      "Id": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\FINAL_DEFENDER\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\FINAL_DEFENDER\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\FINAL_DEFENDER\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\FINAL_DEFENDER\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\wwwroot\\index.html",
+      "Id": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\FINAL_DEFENDER\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/7FZvVRS9QQm1x2aqCpewlcDyU2FjZM35Ysxv3D1TG4=",
+  "Hash": "T/C7qOJQEqTqitUaXPL+1TySNP5i4AN59cjMp3empGo=",
   "Source": "FinalDefender",
   "BasePath": "/",
   "Mode": "Root",
@@ -10,17 +10,17 @@
     {
       "Name": "FinalDefender\\wwwroot",
       "Source": "FinalDefender",
-      "ContentRoot": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\FINAL_DEFENDER\\wwwroot\\",
       "BasePath": "/",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\FinalDefender.styles.css",
+      "Identity": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\FINAL_DEFENDER\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\FinalDefender.styles.css",
       "SourceId": "FinalDefender",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\FINAL_DEFENDER\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\",
       "BasePath": "/",
       "RelativePath": "FinalDefender#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -35,13 +35,13 @@
       "Integrity": "hFdaD2bxJ3yvdoybxH76/BKB9v9HcuxLDpN23ZL349c=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\FinalDefender.styles.css"
+      "OriginalItemSpec": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\FINAL_DEFENDER\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\FinalDefender.styles.css"
     },
     {
-      "Identity": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\obj\\Debug\\net8.0-android\\scopedcss\\projectbundle\\FinalDefender.bundle.scp.css",
+      "Identity": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\FINAL_DEFENDER\\obj\\Debug\\net8.0-android\\scopedcss\\projectbundle\\FinalDefender.bundle.scp.css",
       "SourceId": "FinalDefender",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\obj\\Debug\\net8.0-android\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\FINAL_DEFENDER\\obj\\Debug\\net8.0-android\\scopedcss\\projectbundle\\",
       "BasePath": "/",
       "RelativePath": "FinalDefender#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -56,13 +56,13 @@
       "Integrity": "hFdaD2bxJ3yvdoybxH76/BKB9v9HcuxLDpN23ZL349c=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\obj\\Debug\\net8.0-android\\scopedcss\\projectbundle\\FinalDefender.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\FINAL_DEFENDER\\obj\\Debug\\net8.0-android\\scopedcss\\projectbundle\\FinalDefender.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\wwwroot\\css\\app.css",
+      "Identity": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\FINAL_DEFENDER\\wwwroot\\css\\app.css",
       "SourceId": "FinalDefender",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\FINAL_DEFENDER\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/app#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\css\\app.css"
     },
     {
-      "Identity": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\FINAL_DEFENDER\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "FinalDefender",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\FINAL_DEFENDER\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\FINAL_DEFENDER\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "FinalDefender",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\FINAL_DEFENDER\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\FINAL_DEFENDER\\wwwroot\\favicon.png",
       "SourceId": "FinalDefender",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\FINAL_DEFENDER\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "favicon#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\FINAL_DEFENDER\\wwwroot\\index.html",
       "SourceId": "FinalDefender",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\FINAL_DEFENDER\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "index#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -167,7 +167,7 @@
   "Endpoints": [
     {
       "Route": "css/app.css",
-      "AssetFile": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\wwwroot\\css\\app.css",
+      "AssetFile": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\FINAL_DEFENDER\\wwwroot\\css\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -204,7 +204,7 @@
     },
     {
       "Route": "css/app.dex3usdpik.css",
-      "AssetFile": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\wwwroot\\css\\app.css",
+      "AssetFile": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\FINAL_DEFENDER\\wwwroot\\css\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -249,7 +249,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css",
-      "AssetFile": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\FINAL_DEFENDER\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -294,7 +294,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\FINAL_DEFENDER\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -331,7 +331,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\FINAL_DEFENDER\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -376,7 +376,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.map",
-      "AssetFile": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\FINAL_DEFENDER\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -413,7 +413,7 @@
     },
     {
       "Route": "favicon.ifv42okdf2.png",
-      "AssetFile": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\wwwroot\\favicon.png",
+      "AssetFile": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\FINAL_DEFENDER\\wwwroot\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -458,7 +458,7 @@
     },
     {
       "Route": "favicon.png",
-      "AssetFile": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\wwwroot\\favicon.png",
+      "AssetFile": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\FINAL_DEFENDER\\wwwroot\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -495,7 +495,7 @@
     },
     {
       "Route": "FinalDefender.bundle.scp.css",
-      "AssetFile": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\obj\\Debug\\net8.0-android\\scopedcss\\projectbundle\\FinalDefender.bundle.scp.css",
+      "AssetFile": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\FINAL_DEFENDER\\obj\\Debug\\net8.0-android\\scopedcss\\projectbundle\\FinalDefender.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -532,7 +532,7 @@
     },
     {
       "Route": "FinalDefender.g3got1ypmm.bundle.scp.css",
-      "AssetFile": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\obj\\Debug\\net8.0-android\\scopedcss\\projectbundle\\FinalDefender.bundle.scp.css",
+      "AssetFile": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\FINAL_DEFENDER\\obj\\Debug\\net8.0-android\\scopedcss\\projectbundle\\FinalDefender.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -577,7 +577,7 @@
     },
     {
       "Route": "FinalDefender.g3got1ypmm.styles.css",
-      "AssetFile": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\FinalDefender.styles.css",
+      "AssetFile": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\FINAL_DEFENDER\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\FinalDefender.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -622,7 +622,7 @@
     },
     {
       "Route": "FinalDefender.styles.css",
-      "AssetFile": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\FinalDefender.styles.css",
+      "AssetFile": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\FINAL_DEFENDER\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\FinalDefender.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -659,7 +659,7 @@
     },
     {
       "Route": "index.html",
-      "AssetFile": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\wwwroot\\index.html",
+      "AssetFile": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\FINAL_DEFENDER\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -696,7 +696,7 @@
     },
     {
       "Route": "index.qt9bvcz7gl.html",
-      "AssetFile": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\wwwroot\\index.html",
+      "AssetFile": "C:\\Users\\scole\\Documents\\SAIT\\Object Oriented 2\\FINAL_Project\\FinalDefender\\FINAL_DEFENDER\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {

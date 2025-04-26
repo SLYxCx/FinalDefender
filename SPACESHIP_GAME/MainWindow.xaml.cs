@@ -1,4 +1,18 @@
-﻿using System;
+﻿// Spaceship Game (GALAGA clone) PROJECT
+// Levi Moreau + Steven Cole
+// April 25, 2025
+// --
+// Galaga game. User shoots down and avoids incoming enemy ships and missiles. Defeat enemies to earn a higher score 
+// --
+// Controls: 
+// - Move  Left: ←
+// - Move Right: →
+// - Shoot     : [spacebar]
+
+// < Note:  >
+
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net.NetworkInformation;
