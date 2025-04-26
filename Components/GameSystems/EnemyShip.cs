@@ -4,6 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+// Enemy Class
+// Has: Location data, Alive state, and Movement (incomplete)
+
 namespace FinalDefender.Components.GameSystems
 {
     public class EnemyShip

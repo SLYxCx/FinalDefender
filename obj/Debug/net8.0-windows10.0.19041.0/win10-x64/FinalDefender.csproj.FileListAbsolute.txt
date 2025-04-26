@@ -211,3 +211,4 @@ C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\
 C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
 C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\Components\Pages\SpaceInvaders.razor.rz.scp.css
+C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\FinalDefender.sourcelink.json

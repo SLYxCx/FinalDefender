@@ -4,18 +4,23 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+// GameState: To handle the game data and changes throughout the game
+// such as, the player, enemies, projectiles, and score.
+// The logic also tracks projectile collision and spawning.
+
 namespace FinalDefender.Components.GameSystems
 {
     public class GameState
     {
-        public int Score { get; set; } = 0;
-        public bool IsGameOver { get; set; } = false;
         public PlayerShip Player { get; set; }
         public List<EnemyShip> Invaders { get; set; } = new List<EnemyShip>();
-        public List<Player_Projectile> player_Projectiles { get; set; } = new List<Player_Projectile>();
+        public List<Player_Projectile> Projectile { get; set; } = new List<Player_Projectile>();
+        public int Score { get; set; } = 0;
+        public bool IsGameOver { get; set; } = false;
 
         public GameState()
         {
+            Player = new PlayerShip();
             InitializeGame();
         }
 
@@ -40,12 +45,12 @@ namespace FinalDefender.Components.GameSystems
             if (IsGameOver) return;
 
 
-            foreach (var projectile in player_Projectiles.ToList())
+            foreach (var projectile in Projectile.ToList())
             {
                 projectile.Move();
                 if (projectile.Y < 0 || projectile.Y > 600)
                 {
-                    player_Projectiles.Remove(projectile);
+                    Projectile.Remove(projectile);
                     continue;
                 }
                 CheckHit(projectile);
@@ -76,7 +81,7 @@ namespace FinalDefender.Components.GameSystems
                     {
                         enemy.IsAlive = false;
                         Score += 10;
-                        player_Projectiles.Remove(projectile);
+                        Projectile.Remove(projectile);
                         break;
                     }
                 }

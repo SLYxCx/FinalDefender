@@ -4,6 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+// Player Class
+// Has location, movement, and firing
+// --Inteded to make a "Character" interface or set up an abstract class
+
 namespace FinalDefender.Components.GameSystems
 {
     public class PlayerShip
@@ -15,8 +19,14 @@ namespace FinalDefender.Components.GameSystems
         public int Height { get; set; }
 
         // Movement
-        public void MoveLeft() { /* Logic for moving left */ }
-        public void MoveRight() { /* Logic for moving right */ }
+        public void MoveLeft() 
+        {
+            X -= 5;
+        }
+        public void MoveRight() 
+        {
+            X += 5;
+        }
 
         // Shoot
         public Player_Projectile Fire()

@@ -1,37 +1,45 @@
-﻿@using FinalDefender.Components.GameSystems
+﻿@page "/spaceinvaders"
+@using FinalDefender.Components.GameSystems
 @inject GameState GameState
+@inject IJSRuntime JSRuntime
 
-<div class="game-area">
-    <div 
-    class="spaceship" 
-    style="
+@if (GameState == null)
+{
+    <p>Loading: SPACE INVADERS</p>
+}
+else
+{
+    <div class="game-area">
+        <div 
+        class="spaceship" 
+        style="
             left: @($"{GameState.Player.X}px"); 
             top: @($"{GameState.Player.Y}px");
-    ">
-    </div>
+        ">
+        </div>
 
-    @foreach (var invader in GameState.Invaders)
-    {
-        <div 
-        class="invader" 
-        style="
+        @foreach (var invader in GameState.Invaders)
+        {
+            <div 
+            class="invader" 
+            style="
                 left: @($"{invader.X}px"); 
                 top: @($"{invader.Y}px");
-        ">
-        </div>
-    }
-    @foreach (var projectile in GameState.player_Projectiles)
-    {
-        <div 
-        class="projectile" 
-        style="
+            ">
+            </div>
+        }
+        @foreach (var projectile in GameState.Projectile)
+        {
+            <div 
+            class="projectile" 
+            style="
                 left: @($"{projectile.X}px"); 
                 top:  @($"{projectile.Y}px");
-        ">
-        </div>
-        <div tabindex="0" @onkeydown="HandleKeyPress"></div>
-    }
-</div>
+            ">
+            </div>            <div tabindex="0" @onkeydown="HandleKeyPress"></div>
+        }
+    </div>
+}
 
 @code {
     private void HandleKeyPress(KeyboardEventArgs e)
@@ -40,7 +48,15 @@
         if (e.Key == "ArrowRight") GameState.Player.MoveRight();
         if (e.Key == "Space")
         {
-            GameState.player_Projectiles.Add(GameState.Player.Fire());
+            GameState.Projectile.Add(GameState.Player.Fire());
+        }
+    }
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            await JSRuntime.InvokeVoidAsync("document.querySelector('.game-area').focus");
         }
     }
 }

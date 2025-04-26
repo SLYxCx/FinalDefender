@@ -29,7 +29,7 @@
     <AppXManifest Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-04-25T07:19:42.334</Modified>
+      <Modified>2025-04-26T00:52:30.820</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -43,11 +43,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\FinalDefender.dll">
       <PackagePath>FinalDefender.dll</PackagePath>
-      <Modified>2025-04-25T07:19:42.155</Modified>
+      <Modified>2025-04-26T00:52:30.579</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>FinalDefender.exe</PackagePath>
-      <Modified>2025-04-25T07:19:42.158</Modified>
+      <Modified>2025-04-26T00:52:30.583</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\scole\Documents\SAIT\Object Oriented 2\FINAL_Project\FinalDefender\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
