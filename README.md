@@ -13,7 +13,10 @@ Understanding of recursion, nested functions, class structure, inheritance, and 
 We sincerely hope you enjoy this astronomical coding experience!
 
 
-Creditation
+Creditation:
+
+
+
 All code created by Levi Moreau and Steven Cole with the additional aid of online media resources and automated code debuggers.
 
 
