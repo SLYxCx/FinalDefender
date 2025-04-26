@@ -1,10 +1,10 @@
 Welcome to a planetary experience!
 In this project hub, you will discover the beginnings of a venture to pixelated gaming through the jungles of .NET maui and the desserted plains of WPF. 
-Follow us as we uncover the unknown terraces of console errors and stagnated frames and the sparks of hope and imbue us to innovate.
+Follow us as we uncover the unknown terraces of console errors and stagnated frames and the sparks of hope that imbue us to innovate.
 
 The first project is a Space Invaders type game designed to pit the user against a folly of enemy onslaught in a timed race of wits.
-Components of razor files, class inheritance, and maui user interfaces, bring to life a wandering wonderer's dream.
-These effectively challenege the limitations of the .NET maui framework and push the boundaries of what is possible.
+Components of razor files, class inheritance, and maui user interfaces bring to life a wandering wonderer's dream.
+These effectively challenge the limitations of the .NET maui framework and push the boundaries of what is possible.
 
 The second is a journey through intergalactic galaxies as you navigate into a realm of heinous spacecraft and guided missiles dedicated to stopping your exploration. 
 Can you survive the relentless attack?
